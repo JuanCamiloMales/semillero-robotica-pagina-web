@@ -1,0 +1,15 @@
+.Nav{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+
+.Nav-item {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.Nav-item > a {
+    text-decoration: none;
+}
+
