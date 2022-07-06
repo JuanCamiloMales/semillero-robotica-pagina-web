@@ -1,33 +1,31 @@
 import React from 'react';
-import { Link, useLocation } from 'wouter';
+import './ItemsGuide.css';
+import { Link} from 'wouter';
 
 export default function ItemsGuide( {keyword} ) {
 
-    const [path] = useLocation;
-
     return(
-        <div>
-            <ul className=''>
-                <li className=''>
-                <Link to={`${path}/Repositorios`}  className=''>
-                    Repositorios
+        <div className='ItemsGuide' >
+            <ul className='ItemsGuide_List'>
+                <Link 
+                    to={`Guias/Repositorios`}  
+                    className='ItemsGuide_Iteam'>
+                    Que es Repositorio
                 </Link>
-                </li>
-                <li className=''>
-                <Link to={`${path}/SeguidorLinea`}  className=''>
-                    Seguidor de linea
+                <Link 
+                    to={`Guias/SeguidorLinea`}  
+                    className='ItemsGuide_Iteam'>
+                    Git
                 </Link>
-                </li>
-                <li className=''>
-                <Link to={`${path}/Impresora3D`}  className=''>
-                    Impresora 3D
+                <Link 
+                    to={`Guias/Impresora3D`}  
+                    className='ItemsGuide_Iteam'>
+                    Instalacion
                 </Link>
-                </li>
-                <li className=''>
-                <Link to={`${path}/FabricarPCBconCNC`}  className=''>
-                    Fabricar PCB con CNC
+                <Link 
+                    to={`Guias/FabricarPCBconCNC`}                            className='ItemsGuide_Iteam'>
+                    Como trabajar en equipo
                 </Link>
-                </li>
             </ul>
         </div>
     )

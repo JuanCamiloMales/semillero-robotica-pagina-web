@@ -17,7 +17,7 @@ export default function Nav(){
             />
             <NavIteam 
                 name='Guias' 
-                href='Guias'
+                href='/Guias'
                 icon='library_books'
                 isActive={path === '/Guias'}
             />

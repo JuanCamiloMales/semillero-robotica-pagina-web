@@ -1,0 +1,20 @@
+.ItemsGuide{
+    padding-top: 50px;
+    padding-left: 20px;
+
+}
+
+.ItemsGuide_Iteam{
+    color: #1A1A1A;
+    list-style: none;
+    text-decoration:none;
+    font-weight: 600;
+    font-size: 24px;
+
+    padding: 15px;
+    display: block;
+}
+
+.ItemsGuide_Iteam:hover{
+    color: #8b8b8b;
+}
