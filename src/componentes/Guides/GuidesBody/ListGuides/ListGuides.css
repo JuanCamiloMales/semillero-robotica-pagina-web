@@ -1,0 +1,33 @@
+.ListGuides_title {
+    padding-top: 50px;
+    padding-bottom: 30px;
+    font-size: 60px;
+    line-height: 65px;
+    font-weight: 700;
+    color: rgb(40, 44, 52);
+}
+
+.ListGuides_descripcion {
+    font-size: 24px;
+    padding-bottom: 20px;
+    color: #6d6d6d;
+}
+
+hr {
+    height: 1px;
+    margin-bottom: -1px;
+    border: none;
+    border-bottom: 1px solid #ececec;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.ListGuides_list{
+    padding-left: 40px;
+}
+
+.ListGuides_iteam{
+    font-size: 24px;
+    padding: 5px;
+}
+

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "nombre": "Repositorio",
+        "iteam": [
+            {
+                "id": "1",
+                "nombre": "Git - Sistema de control de versiones"
+            },
+            {
+                "id": "2",
+                "nombre": "Guihub - Repositorio remoto"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "nombre": "Seguidor de linea",
+        "iteam": [
+            {
+                "id": "1",
+                "nombre": "Lectura de linea"
+            },
+            {
+                "id": "2",
+                "nombre": "Mover motores"
+            }
+        ]
+    }
+    
+]
+

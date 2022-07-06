@@ -1,7 +1,7 @@
 import React from 'react'
 import './Header.css'
-import Logo from './Logo'
-import Nav from './Nav'
+import Logo from './Logo/Logo'
+import Nav from './Nav/Nav'
 
 export default function Header() {
   return (

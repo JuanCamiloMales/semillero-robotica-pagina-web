@@ -1,0 +1,11 @@
+.GuidesBody{
+    width: 100%;
+    padding: 0 20px;
+}
+
+@media (min-width: 780px) {
+    .GuidesBody{
+        padding-left: 0;
+        padding-right: calc( 5% + 20px);
+    }
+}

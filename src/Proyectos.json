@@ -1,0 +1,138 @@
+[
+    {
+        "id": "1",
+        "nombre": "Kit educativo",
+        "estado": "En desarollo",
+        "repositorio": "https://www.google.com.co/",
+        "tutor": "Carlos",
+        "estudiantes": [
+            {
+                "id": "1",
+                "nombre": "Andres castillos olivares"
+            },
+            {
+                "id": "2",
+                "nombre": "Ana"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "nombre": "Seguidor de linea",
+        "estado": "Finalizado",
+        "repositorio": "https://www.google.com.co/",
+        "tutor": "Luis",
+        "estudiantes": [
+            {
+                "id": "1",
+                "nombre": "John"
+            },
+            {
+                "id": "2",
+                "nombre": "Luisa"
+            }
+        ]
+    },{
+        "id": "3",
+        "nombre": "Impresora 3D",
+        "estado": "En desarollo",
+        "repositorio": "https://www.google.com.co/",
+        "tutor": "Carlos",
+        "estudiantes": [
+            {
+                "id": "1",
+                "nombre": "Andres"
+            },
+            {
+                "id": "2",
+                "nombre": "Ana"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "nombre": "Robot sumo",
+        "estado": "Finalizado",
+        "repositorio": "https://www.google.com.co/",
+        "tutor": "Luis",
+        "estudiantes": [
+            {
+                "id": "1",
+                "nombre": "John"
+            },
+            {
+                "id": "2",
+                "nombre": "Luisa"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "nombre": "Dron",
+        "estado": "En desarollo",
+        "repositorio": "https://www.google.com.co/",
+        "tutor": "Carlos",
+        "estudiantes": [
+            {
+                "id": "1",
+                "nombre": "Andres"
+            },
+            {
+                "id": "2",
+                "nombre": "Ana"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "nombre": "CNC",
+        "estado": "Finalizado",
+        "repositorio": "https://www.google.com.co/",
+        "tutor": "Luis",
+        "estudiantes": [
+            {
+                "id": "1",
+                "nombre": "John"
+            },
+            {
+                "id": "2",
+                "nombre": "Luisa"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "nombre": "Velocista",
+        "estado": "En desarollo",
+        "repositorio": "https://www.google.com.co/",
+        "tutor": "Carlos",
+        "estudiantes": [
+            {
+                "id": "1",
+                "nombre": "Andres"
+            },
+            {
+                "id": "2",
+                "nombre": "Ana"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "nombre": "Protesis",
+        "estado": "Finalizado",
+        "repositorio": "https://www.google.com.co/",
+        "tutor": "Luis",
+        "estudiantes": [
+            {
+                "id": "1",
+                "nombre": "John"
+            },
+            {
+                "id": "2",
+                "nombre": "Luisa"
+            }
+        ]
+    }
+]
+

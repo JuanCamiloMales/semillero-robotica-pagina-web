@@ -1,0 +1,18 @@
+.ListProyects{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+@media (min-width: 1340px) {
+    .ListProyects{
+        max-width: 1260px;
+    }
+}
+
+@media (min-width: 780px) {
+    .ListProyects{
+        width: 90%;
+    }
+}
