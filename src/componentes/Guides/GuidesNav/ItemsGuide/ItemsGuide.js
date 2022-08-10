@@ -10,7 +10,7 @@ export default function ItemsGuide( {keyword} ) {
                 <Link 
                     to={`Guias/Repositorios`}  
                     className='ItemsGuide_Iteam'>
-                    Que es Repositorio
+                    Qué es Repositorio
                 </Link>
                 <Link 
                     to={`Guias/SeguidorLinea`}  
@@ -20,11 +20,11 @@ export default function ItemsGuide( {keyword} ) {
                 <Link 
                     to={`Guias/Impresora3D`}  
                     className='ItemsGuide_Iteam'>
-                    Instalacion
+                    Instalación
                 </Link>
                 <Link 
                     to={`Guias/FabricarPCBconCNC`}                            className='ItemsGuide_Iteam'>
-                    Como trabajar en equipo
+                    Cómo trabajar en equipo
                 </Link>
             </ul>
         </div>
