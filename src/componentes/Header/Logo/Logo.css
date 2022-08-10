@@ -8,6 +8,7 @@
 .Logo .Logo-img{
     width: 70px;
     margin-right: 15px;
+    cursor: pointer;
 }
 
 .Logo .Logo-title{

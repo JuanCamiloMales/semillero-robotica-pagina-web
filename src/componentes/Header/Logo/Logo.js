@@ -1,10 +1,11 @@
 import React from 'react'
+import { Link } from 'wouter'
 import './Logo.css'
 
 export default function Logo(){
     return (
-        <div className='Logo'>
-            <img className='Logo-img' src='Logo-img.svg' alt='Logo'/>
-        </div>
+        <Link to={'/'} className={'Logo'}>
+                <img className='Logo-img' src='Logo-img.svg' alt='Logo'/>
+        </Link>
     )
 }
