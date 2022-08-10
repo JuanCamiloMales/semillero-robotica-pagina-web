@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/semillero-robotica-pagina-web/static/css/main.17978696.css",
-    "main.js": "/semillero-robotica-pagina-web/static/js/main.86d2ab75.js",
+    "main.js": "/semillero-robotica-pagina-web/static/js/main.da19df12.js",
     "static/js/787.d3d7b19a.chunk.js": "/semillero-robotica-pagina-web/static/js/787.d3d7b19a.chunk.js",
     "static/media/robot.jpg": "/semillero-robotica-pagina-web/static/media/robot.e59b9e391451256c3f8b.jpg",
     "index.html": "/semillero-robotica-pagina-web/index.html",
     "main.17978696.css.map": "/semillero-robotica-pagina-web/static/css/main.17978696.css.map",
-    "main.86d2ab75.js.map": "/semillero-robotica-pagina-web/static/js/main.86d2ab75.js.map",
+    "main.da19df12.js.map": "/semillero-robotica-pagina-web/static/js/main.da19df12.js.map",
     "787.d3d7b19a.chunk.js.map": "/semillero-robotica-pagina-web/static/js/787.d3d7b19a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17978696.css",
-    "static/js/main.86d2ab75.js"
+    "static/js/main.da19df12.js"
   ]
 }
